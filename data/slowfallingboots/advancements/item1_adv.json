@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "slowfallingboots:item1"
+            }
+        }
+    },
+    "rewards": {
+        "function": "slowfallingboots:crafted_item1"
+    }
+}

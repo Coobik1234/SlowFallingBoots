@@ -1,0 +1,1 @@
+effect give @a[nbt={Inventory:[{Slot:100b,id:"minecraft:netherite_boots",tag:{Enchantments:[{id: "sharpness", lvl: 3}]}}]}] minecraft:slow_falling 10 1 true
